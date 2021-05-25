@@ -7,7 +7,7 @@
     "name": "alagrawa"
   },
   "dependencies": {
-    "applicationinsights": "^1.0.0",
+    "applicationinsights": "^1.8.10",
     "natives": "^1.1.6"
   }
 }
